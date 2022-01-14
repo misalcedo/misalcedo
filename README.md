@@ -3,11 +3,11 @@ Hi, my name is Miguel Salcedo. I am currently working as a Software Developer at
 
 - 😄 Pronouns: He/Him
 
-## ⚾ Hobbies
-I love to program on my latest idea, watch anime, and play video games. Although my daughter monopolizes most of my time during the day, I still often spend my nights in front of a computer screen. I start most of my mornings with a cup of coffee and will have 1 or 2 more before the day is done.
+## 🎮 Hobbies
+I love to program on my latest idea, watch anime and play video games. Although my daughter monopolizes most of my time during the day, I still often spend my nights in front of a computer screen. I start most of my mornings with a cup of coffee and will have 1 or 2 more before the day is done.
 
-- ⚡ Fun fact: I don't remember the last time I read a book for fun that was not a software-related book. Though, I do know it was a book in the Witcher series.
-- ⚡ Fun fact: I speak Spanish, English and some Japanese. I also learned them in that order.
+- ⚡ Fun fact: I don't remember the last time I read a book that was **not** software-related. Though, I do know it was a book in the Witcher series.
+- ⚡ Fun fact: I speak _Español_, _English_ and some _日本語_ in the order that I learned them.
 
 ## 📋 My Projects
 * [Tortuaga](tortuga.salcedo.cc) 🐢 - A functional programming language targetting WebAssembly and built for concurrency.
