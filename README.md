@@ -9,7 +9,7 @@ I love to program on my latest idea, watch anime and play video games. Although 
 
 ## 📋 My Projects
 * [Tortuaga](https://tortuga.salcedo.cc) 🐢 - A functional programming language -- built for concurrency -- that compiles to WebAssembly.
-* [PPP](https://github.com/misalcedo/ppp) 💻 - An [HAProxy Protocol](xy.org/download/1.8/doc/proxy-protocol.txt) Parser written in Rust. Parses versions 1 and 2 of the protocol.
+* [PPP](https://github.com/misalcedo/ppp) 💻 - An [HAProxy Protocol](https://haproxy.org/download/1.8/doc/proxy-protocol.txt) Parser written in Rust. Parses versions 1 and 2 of the protocol.
 * [WASM-AST](https://github.com/misalcedo/wasm-ast) 🕸️ - A WebAssembly Abstract Syntax Tree. Meant to ease WebAssembly code-generation for compilers written in Rust.
 * [Literate-rs](https://github.com/misalcedo/literate-rs) 📔 - A [Literate Programming](https://en.wikipedia.org/wiki/Literate_programming) tool that extracts the contents of [fenced code blocks](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks) from [Markdown](https://www.markdownguide.org) files.
 
