@@ -7,7 +7,7 @@ Hi, my name is Miguel Salcedo. I am currently working as a Software Developer at
 I love to program on my latest idea, watch anime and play video games. Although my 👶 daughter monopolizes most of my time during the day, I still often spend my nights in front of a 💻 or 📺 screen. I start most of my mornings with a cup of ☕ and will have 1 or 2 more before the day is done.
 
 - ⚡ Fun fact: I don't remember the last time I read a book that was **not** software-related. Though, I do know it was a book in the Witcher series.
-- ⚡ Fun fact: I speak _Español_, _English_ and some _日本語_ in the order that I learned them.
+- ⚡ Fun fact: In the order I learned them, I speak: _Español_, _English_ and some _日本語_.
 
 ## 📋 My Projects
 * [Tortuaga](tortuga.salcedo.cc) 🐢 - A functional programming language targetting WebAssembly and built for concurrency.
