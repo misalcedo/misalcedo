@@ -1,8 +1,6 @@
 ## 📢 About Me
 Hi, my name is Miguel Salcedo. I am currently working as a Software Developer at [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="GitHub" width="16" height="16"/>](https://github.com/). Before that, I worked at [<img src="https://www.amazon.com/favicon.ico" alt="Amazon" width="16" height="16"/>](https://a.co) for close to 6 years.
 
-- 😄 Pronouns: He/Him
-
 ## 🎮 Hobbies
 I love to program on my latest idea, watch anime and play video games. Although my 👶 daughter monopolizes most of my time during the day, I still often spend my nights in front of a 💻 or 📺 screen. I start most of my mornings with a cup of ☕ and will have 1 or 2 more before the day is done.
 
